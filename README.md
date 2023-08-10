@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This project was a part of 1 day hackathon. Nikhil and I made this kid's website which helps them to learn letters and words.
+This project was a part of 1 day hackathon. Me and Advait made this kid's website which helps them to learn letters and words.
 
 <!--
 **childs-first-tutor/childs-first-tutor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
